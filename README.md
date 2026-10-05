@@ -7,3 +7,4 @@ The other disadvantage of the HBM display is that it is powered by
 2 parallel 2032 3V coin type batteries. These batteries have to be replaced
 too often. The new design can be powered with a simple 5V power supply so that
 batteries are no longer required.
+Note: the DRO.fzz file can be opened with Fritzing and shows diagram + PCB
